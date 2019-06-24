@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ggprem.com	TRUE	/	FALSE	1999999999	PHPSESSID	a46695ff05c743da693adcd3f9d747d1
+.ggprem.com	TRUE	/	FALSE	1999999999	__cfduid	d6ea267741c587b2b1f79990ee6d4c2851561332167
+
